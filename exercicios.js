@@ -231,3 +231,4 @@ Lidar com mensagens de erro, entendendo o que o Node.js está tentando nos dizer
 Trabalhar com escopos e entender como os escopos funcionam para “limitar” o acesso do código a uma variável.
 By Alura.
 */
+// Há diferenças claras entre o gabarito e as minhas respostas, mantive do geito que estava antes de eu ver o gabarito.
