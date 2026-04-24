@@ -159,7 +159,7 @@ console.log("ReferenceError: cores2 is not defined, let Respeita o Escopo de Blo
   let VariavelFora = "Outside";
 
    {
-     let ariavelDentro = "Inside";
+     let VariavelDentro = "Inside";
      console.log(`Dentro: ${variavelFora}, ${variavelDentro}`);
    }
 
