@@ -7,6 +7,8 @@ Este repositório contém meus estudos iniciais sobre fundamentos de JavaScript,
 - **Tipagem:** Manipulação de strings, números e booleanos.
 - **Template Strings:** Interpolação de texto de forma moderna.
 - **Estruturas Condicionais:** Lógica de tomada de decisão com `if/else`.
+- **Operadores Matemáticos e Lógicos:** Expressões para cálculos e validações de fluxo.
+- **Funções e Modularização:** Criação de blocos lógicos reutilizáveis.
 
 ## Tecnologias Utilizadas:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
